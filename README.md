@@ -8,5 +8,5 @@
 
 Click below to see it in action
 
-![here it is in action](https://img.youtube.com/vi/eRaQRIzJ0rs/maxresdefault.jpg)
+[![here it is in action](https://img.youtube.com/vi/eRaQRIzJ0rs/maxresdefault.jpg)](https://youtu.be/eRaQRIzJ0rs)
 
